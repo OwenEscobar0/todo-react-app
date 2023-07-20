@@ -64,13 +64,13 @@ function TodoList() {
  
   const completed = calcularCompletados();
   
-  const eliminar = () =>{
-   let tareasN = "No hay tareas"
-   if (todos!== ""){}
+  // const eliminar = () =>{
+  //  let tareasN = "No hay tareas"
+  //  if (todos!== ""){}
    
-   return tareasN;
+  //  return tareasN;
 
-  }; 
+  // }; 
 
 
   return (
